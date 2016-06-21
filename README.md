@@ -1,5 +1,6 @@
 # 阿里大鱼ASP调用示例
-- 本demo参考[nodejs demo](https://github.com/xiaoshan5733/alidayu-node)完成
+- 本demo地址: <https://github.com/woodsrong/alidayu-asp-demo>
+   - demo参考[nodejs demo](https://github.com/xiaoshan5733/alidayu-node)完成
 - 重点可参考sign的生成方法
 
 > 注意:
